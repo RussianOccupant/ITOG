@@ -1,0 +1,15 @@
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\ITOGC#\Exercise68\obj\Debug\net6.0\Exercise68.csproj.AssemblyReference.cache
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\ITOGC#\Exercise68\obj\Debug\net6.0\Exercise68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\ITOGC#\Exercise68\obj\Debug\net6.0\Exercise68.AssemblyInfoInputs.cache
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\ITOGC#\Exercise68\obj\Debug\net6.0\Exercise68.AssemblyInfo.cs
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\ITOGC#\Exercise68\obj\Debug\net6.0\Exercise68.csproj.CoreCompileInputs.cache
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\ITOGC#\Exercise68\bin\Debug\net6.0\Exercise68.exe
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\ITOGC#\Exercise68\bin\Debug\net6.0\Exercise68.deps.json
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\ITOGC#\Exercise68\bin\Debug\net6.0\Exercise68.runtimeconfig.json
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\ITOGC#\Exercise68\bin\Debug\net6.0\Exercise68.dll
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\ITOGC#\Exercise68\bin\Debug\net6.0\Exercise68.pdb
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\ITOGC#\Exercise68\obj\Debug\net6.0\Exercise68.dll
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\ITOGC#\Exercise68\obj\Debug\net6.0\refint\Exercise68.dll
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\ITOGC#\Exercise68\obj\Debug\net6.0\Exercise68.pdb
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\ITOGC#\Exercise68\obj\Debug\net6.0\Exercise68.genruntimeconfig.cache
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\ITOGC#\Exercise68\obj\Debug\net6.0\ref\Exercise68.dll
